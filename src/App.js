@@ -7,7 +7,7 @@ function App() {
       <header className="App-header">
         <img src={logo} className="App-logo" alt="logo" />
         <p>
-          This is a React application powered by an Amplify backend. 
+          This is a React frontend application powered by an Amplify backend. 
         </p>
         <a
           className="App-link"
